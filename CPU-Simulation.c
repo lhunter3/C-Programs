@@ -220,4 +220,3 @@ int main(int argc, char** argv){
     printAll(summary);
     return 0;
 }
-
